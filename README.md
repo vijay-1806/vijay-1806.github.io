@@ -53,10 +53,6 @@ I focus on building secure systems, full-stack web applications, and cloud infra
 
 ---
 
-🔗 [View Repository](https://github.com/vijay-1806/hostvault)
-
----
-
 ## 🌐 Live Site
 
 Check out the live version of my portfolio here: **[vijay-1806.github.io](https://vijay-1806.github.io)**
