@@ -53,24 +53,7 @@ I focus on building secure systems, full-stack web applications, and cloud infra
 
 ---
 
-### ☁️ HostVault — Private Cloud Storage
-
-A full-stack self-hosted cloud storage platform. No third-party cloud — everything runs on your own machine.
-
-- 📤 File upload/download with drag & drop
-- 🗑️ Trash system with 30-day recovery
-- 🛡️ Admin panel — manage users, files, storage & activity logs
-- 🔒 Brute force protection, rate limiting, input validation, session hardening
-- 🔐 Google OAuth login support
-- 🌙 Dark / Light theme
-
 🔗 [View Repository](https://github.com/vijay-1806/hostvault)
-
----
-
-### ⛓️ Blockchain Project *(In Progress)*
-
-Currently building a blockchain-based system focused on decentralized data integrity and security for real-world use cases.
 
 ---
 
