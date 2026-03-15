@@ -1,39 +1,90 @@
-# 🌐 vijay-1806.github.io — Personal Portfolio
+# Vijayaragavan G | Portfolio
 
-My personal portfolio website built with pure HTML, CSS and JavaScript. No frameworks, no dependencies — just clean, fast, and responsive.
+Welcome to my portfolio! I am a **Cloud Enthusiast, Cybersecurity Student, and Full Stack Developer** currently pursuing my B.E. in Computer Science and Engineering (Cyber Security) at Sri Shakthi Institute of Engineering and Technology, Coimbatore.
 
-🔗 **Live:** [vijay-1806.github.io](https://vijay-1806.github.io)
-
----
-
-## 👤 About
-
-Portfolio of **Vijayaragavan G** — B.E. CSE (Cyber Security) student at Sri Shakthi Institute of Engineering and Technology, Coimbatore.
+🔗 **Live Site:** [vijay-1806.github.io](https://vijay-1806.github.io)
 
 ---
 
-## 📄 Sections
+## 😊 About Me
 
-- **Hero** — Introduction and quick links
-- **About** — Education, interests and background
-- **Skills** — Tech stack and tools
-- **Projects** — Featured work including HostVault
-- **Contact** — Email, LinkedIn and GitHub
+I focus on building secure systems, full-stack web applications, and cloud infrastructure. My approach is project-driven — solving real-world problems through practical implementation. I believe the best way to learn security is to build something and then try to break it.
 
----
-
-## 🛠️ Built With
-
-| Technology | Usage |
-|---|---|
-| HTML5 | Structure |
-| CSS3 | Styling & animations |
-| JavaScript | Interactivity |
-| GitHub Pages | Free hosting |
+- 🎓 **Education:** B.E. CSE (Cyber Security) @ Sri Shakthi Institute of Engineering and Technology, Coimbatore (2024–2028)
+- ☁️ **Interests:** Cloud Infrastructure, Cyber Security, Blockchain, and Full Stack Development
+- 📍 **Location:** Coimbatore, Tamil Nadu, India
 
 ---
 
-## 🚀 Run Locally
+## 🛠️ My Tech Stack
+
+**Programming Languages**
+
+`Python` `C` `Java` `JavaScript` `HTML5` `CSS3`
+
+**Backend & Frameworks**
+
+`Flask` `Waitress` `REST APIs` `SQLAlchemy`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+**Cloud & Storage**
+
+`MinIO` `Self-hosted Cloud` `Object Storage`
+
+**Security**
+
+`Brute Force Protection` `Rate Limiting` `Input Validation` `Session Hardening`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Nginx` `Linux` `VS Code` `pgAdmin`
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **HostVault** | Self-hosted private cloud storage platform — Google Drive alternative | Python, Flask, MinIO, PostgreSQL, Nginx |
+| **Blockchain Project** | Decentralized data integrity system *(In Progress)* | Blockchain, Python, Security |
+
+---
+
+### ☁️ HostVault — Private Cloud Storage
+
+A full-stack self-hosted cloud storage platform. No third-party cloud — everything runs on your own machine.
+
+- 📤 File upload/download with drag & drop
+- 🗑️ Trash system with 30-day recovery
+- 🛡️ Admin panel — manage users, files, storage & activity logs
+- 🔒 Brute force protection, rate limiting, input validation, session hardening
+- 🔐 Google OAuth login support
+- 🌙 Dark / Light theme
+
+🔗 [View Repository](https://github.com/vijay-1806/hostvault)
+
+---
+
+### ⛓️ Blockchain Project *(In Progress)*
+
+Currently building a blockchain-based system focused on decentralized data integrity and security for real-world use cases.
+
+---
+
+## 🌐 Live Site
+
+Check out the live version of my portfolio here: **[vijay-1806.github.io](https://vijay-1806.github.io)**
+
+---
+
+## 🛠️ Development Setup
+
+This portfolio is built with pure HTML, CSS and JavaScript — no dependencies needed.
+
+**Run locally:**
 ```bash
 git clone https://github.com/vijay-1806/vijay-1806.github.io.git
 cd vijay-1806.github.io
@@ -42,8 +93,12 @@ cd vijay-1806.github.io
 
 ---
 
-## 📫 Contact
+## 📬 Let's Connect
 
-- 📧 vijayaragavan183@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/vijayaragavan-g-75591b338)
-- 🐙 [GitHub](https://github.com/vijay-1806)
+- 📧 **Email:** vijayaragavan183@gmail.com
+- 💼 **LinkedIn:** [Vijayaragavan G](https://www.linkedin.com/in/vijayaragavan-g-75591b338)
+- 🐙 **GitHub:** [@vijay-1806](https://github.com/vijay-1806)
+
+---
+
+*Built with passion by Vijayaragavan G*
